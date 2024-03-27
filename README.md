@@ -1,6 +1,6 @@
 # SNS Project (Software & Software)  
 ## ⌛️ Project Term
-2019.06 - 2019.09 
+***2019.06 - 2019.09***
 ## 🏆 Prize
 ![제목 없는 디자인](https://github.com/ZIO-KIM/Project-SNS/assets/45088611/b18e7a28-ecb4-433d-9d94-00a757d77bde)
 Entry for website development contest, held by Sejong Univ. College of Software Convergence  
